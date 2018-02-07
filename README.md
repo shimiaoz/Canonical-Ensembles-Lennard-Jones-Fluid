@@ -1,5 +1,5 @@
 # Canonical-Ensembles-Lennard-Jones-Fluid
-To run a molecular simulation, specify the parameters in the **CHANGE Configuration parameters** and the **CHANGE Plotting Settings** sections at the beginning of the *ensemble_LJ.py* file.
+To run a molecular simulation, specify the parameters in the **CHANGE Configuration Parameters** and the **CHANGE Plotting Settings** sections at the beginning of the *ensemble_LJ.py* file.
 
 To run the program, simply type: python ensemble_LJ.py
 
