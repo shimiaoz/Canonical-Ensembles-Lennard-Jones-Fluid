@@ -17,7 +17,7 @@ from time import time
 #====================Initialization===================
 t0 = time()
 
-#=====CHANGE Configuration parameters=====
+#=====CHANGE Configuration Parameters=====
 mass = 1.0; seed = 10
 nPart = 100; density = 1.0; temp = 1.0; nStep = 100; nDim = 3
 InitCoordGen = 'Lattice'          # 'Random' or 'Random_Cond' or 'Lattice'
